@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(176, 140, 96);
+    min-height:100%;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/28/18/37/the-1865639__480.jpg);
+    background-color: #74b74b;
+}
+
+h1{
+    color: yellow;
+}
+p1{
+    color: yellow;
+}
+h2{
+    text-align: center;
+    color: yellow;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    text-align: center;
+    color: yellow;
+}
